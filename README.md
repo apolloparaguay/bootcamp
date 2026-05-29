@@ -5,8 +5,8 @@
 Este repositorio centraliza el desarrollo lógico y el control del robot para la competencia. Mantenemos una estructura modular para facilitar la integración de sensores y actuadores.
 
 ## Arquitectura
-*   **/codigo** — Código fuente (C++/Python).
-*   **/docs** — Manual de ingeniería y bitácora de pruebas.
+*   **/codigo** — Código fuente.
+*   **/docs** — Manual de ingeniería.
 *   **/cad** — Renders y archivos de diseño mecánico.
 
 # 👥 Nuestro Equipo: Apollo Robotics
@@ -23,7 +23,7 @@ Somos un grupo interdisciplinario enfocado en la excelencia técnica y la innova
 
 ---
 
-### Perfiles de Ingeniería
+### Perfiles del Crew
 
 <details>
 <summary><b>Leonardo Recalde Bogado</b> | Team Leader</summary>
