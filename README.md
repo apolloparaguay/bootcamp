@@ -9,7 +9,7 @@ Este repositorio centraliza el desarrollo lógico y el control del robot para la
 *   **/docs** — Manual de ingeniería.
 *   **/cad** — Renders y archivos de diseño mecánico.
 
-# 👥 Nuestro Equipo: Apollo Robotics
+# Nuestro Equipo: Apollo Robotics
 
 Somos un grupo interdisciplinario enfocado en la excelencia técnica y la innovación aplicada.
 
