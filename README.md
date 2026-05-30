@@ -1,6 +1,9 @@
 # Bootcamp
 > *Repositorio oficial de control y sistemas. Bootcamp de Robótica 2026.*
 
+
+LINK DE ONSHAPE
+https://cad.onshape.com/documents/a30116ba1cbc2d0233f067a0/w/4120700cdf8d6f7238757905/e/2b2f038c5d2f366a37200d7f
 ## Visión General
 Este repositorio centraliza el desarrollo lógico y el control del robot para la competencia. Mantenemos una estructura modular para facilitar la integración de sensores y actuadores.
 
