@@ -49,5 +49,6 @@ Arquitecto de la inteligencia lógica. Especializado en electrónica y programac
 <summary><b>Junior Emanoel Hugo Núñez Sotelo</b> | Builder & Researcher</summary>
 Cerebro analítico y pilar de la investigación técnica. Experto en diseño experimental basado en datos para asegurar el máximo rendimiento y fiabilidad de cada componente.
 </details>
----
+
+
 *Mentores: Dante Cibils y Abel Sebastian Benitez*
